@@ -152,7 +152,7 @@ It also serves as a foundation for learning modular programming, data organizati
 
 ## 👨‍💻 Author
 
-**Janvi Gore**
+**Janvi unde**
 
 Student Developer | Python Programming
 

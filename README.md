@@ -155,11 +155,6 @@ It also serves as a foundation for learning modular programming, data organizati
 **Janvi unde**
 
 Student Developer | Python Programming
-
-## 📄 License
-
-This project is available for educational and learning purposes. You may add an appropriate open-source license if you intend to allow others to reuse, modify, or distribute the code.
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star on GitHub!
